@@ -10,6 +10,7 @@ Before you begin, make sure you have the necessary dependencies/libraries:
 2. https://github.com/adafruit/DHT-sensor-library
 
 *Note: You may need to rename files to contain only basic letters and numbers, no spaces.
+
 **Note: When importing libraries on any previous versions of Arduino IDE prior to version 1.6.4 you must restart your IDE
 
 ### Items Required
@@ -28,7 +29,6 @@ Before you begin, make sure you have the necessary dependencies/libraries:
 ## Circuit
 
 The circuit can be viewed with file: [WeatherStationDHT11.png](WeatherStationDHT11.png)
-
 Eagle schematics can be found in the file: [WeatherStationDTH11.sch](WeatherStationDHT11.sch)
 
 ## Issues

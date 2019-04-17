@@ -8,6 +8,7 @@ includes a single Photoresistor to analyze relative light levels and outputs the
 Before you begin, make sure you have the necessary dependencies/libraries:
 1. https://github.com/adafruit/Adafruit_Sensor
 2. https://github.com/adafruit/DHT-sensor-library
+
 *Note: You may need to rename files to contain only basic letters and numbers, no spaces.
 **Note: When importing libraries on any previous versions of Arduino IDE prior to version 1.6.4 you must restart your IDE
 

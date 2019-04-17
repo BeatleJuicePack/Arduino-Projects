@@ -2,6 +2,7 @@
 
 This repository contains an assortment of projects based on the Arduino Uno.  
 These projects are intended to be easy to practice while requiring little to no knowledge of programming and circuits.
+Schematics created within Eagle are also available for review.
 
 ## Getting Started
 
@@ -25,6 +26,10 @@ Occasionally scripts may require dependencies; in order to properly install them
 2: Search github repositories and clone/download the appropriate .zip for your project.  This can be done in a web browser or
 thru the "git clone ssh://git@github.com/[username]/[repository-name].git	" command.  Once downloaded, import the library and
 restart your IDE.
+
+PCBs can easily be designed within Autodesk's Eagle PCB Design Software:
+1. Visit Autodesk's website and make an account: https://www.autodesk.com/products/eagle/overview
+2. Download, install, and open the schematic, or ".sch" files found within the repository.
 
 ### Example installation
 

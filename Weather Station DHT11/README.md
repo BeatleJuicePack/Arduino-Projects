@@ -28,7 +28,7 @@ Before you begin, make sure you have the necessary dependencies/libraries:
 
 ## Circuit
 
-The circuit can be viewed with file: [WeatherStationDHT11.png](WeatherStationDHT11.png)
+The circuit can be viewed with file: [WeatherStationDHT11.png](WeatherStationDHT11.png);
 Eagle schematics can be found in the file: [WeatherStationDTH11.sch](WeatherStationDHT11.sch)
 
 ## Issues

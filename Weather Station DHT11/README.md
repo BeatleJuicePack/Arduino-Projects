@@ -35,13 +35,13 @@ Before you begin, make sure you have the necessary dependencies/libraries:
 Currently the data within the repository can act as a prototype for learning about the Arduino Uno, however, the program is 
 easily configurable to run consistently for long durations so long as issues are addressed such as:
 
-  1. Sleeping - the device is constantly on and will require a sleep-cycle in order to run for longer periods.
-  2. Dedicated PCB - this will reduce the overall power to the device and allow for a smaller, more manageable form factor.
-  3. Wireless connectivity - the Weather Station DHT11 can easily be modified to connect with an ESP8266 or similar device.
-  4. Cloud/Smart Home connectivity - connect to your Cloud/Smart Home and log data over long periods.
-  5. Battery/Solar Power - LiPo batteries and Solar Cells can easily be configured within the system.
-  6. Water/Weatherproofing - Due to the unpredictable nature of the outdoors, a Water or Weatherproof housing is needed.
-  7. Unknown variables - Let me know if you see any problems and/or solutions I did not mention here.
+1. Sleeping - the device is constantly on and will require a sleep-cycle in order to run for longer periods.
+2. Dedicated PCB - this will reduce the overall power to the device and allow for a smaller, more manageable form factor.
+3. Wireless connectivity - the Weather Station DHT11 can easily be modified to connect with an ESP8266 or similar device.
+4. Cloud/Smart Home connectivity - connect to your Cloud/Smart Home and log data over long periods.
+5. Battery/Solar Power - LiPo batteries and Solar Cells can easily be configured within the system.
+6. Water/Weatherproofing - Due to the unpredictable nature of the outdoors, a Water or Weatherproof housing is needed.
+7. Unknown variables - Let me know if you see any problems and/or solutions I did not mention here.
   
 Assuming all the above issues are addressed and also assuming there is no the chance that more problems will arise in the 
 future, the device will be capable of operating as an Open-Source Weather Station year-round.

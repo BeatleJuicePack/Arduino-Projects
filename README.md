@@ -23,7 +23,7 @@ The Arduino IDE can be downloaded from:
 
 Occasionally scripts may require dependencies; in order to properly install them you can either:
 1. Use Arduino's IDE Library Manager (available from IDE version 1.6.2 and up).
-2: Search github repositories and clone/download the appropriate .zip for your project.  This can be done in a web browser or
+2. Search github repositories and clone/download the appropriate .zip for your project.  This can be done in a web browser or
 thru the "git clone ssh://git@github.com/[username]/[repository-name].git	" command.  Once downloaded, import the library and
 restart your IDE.
 

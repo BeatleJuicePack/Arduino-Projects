@@ -28,8 +28,8 @@ Before you begin, make sure you have the necessary dependencies/libraries:
 
 ## Circuit
 
-The circuit can be viewed with file: [WeatherStationDHT11.png](WeatherStationDHT11.png);
-Eagle schematics can be found in the file: [WeatherStationDTH11.sch](WeatherStationDHT11.sch)
+1. The circuit can be viewed with file: [WeatherStationDHT11.png](WeatherStationDHT11.png)
+2. Eagle schematics can be found in the file: [WeatherStationDTH11.sch](WeatherStationDHT11.sch)
 
 ## Issues
 Currently the data within the repository can act as a prototype for learning about the Arduino Uno, however, the program is 
